@@ -115,6 +115,31 @@
           ]
         }
       ]
+    },
+    {
+      "id": 6,
+      "title": "Test",
+      "tags": ["pujian"],
+      "lyrics": [
+        {
+          "label": "Verse 2",
+          "lines": [
+            "Dihadapan Hadirat-Mu ya Bapa",
+            "Kudatang dengan penuh kerinduan",
+            "Dihadapan Hadirat-Mu ya Bapa",
+            "Segala keangkuhan hilang"
+          ]
+        },
+        {
+          "label": "Bridge",
+          "lines": [
+            "Kusembah Kau ya Bapa",
+            "Kusembah Kau ya Tuhan",
+            "Kutinggikan namaMu Yesus",
+            "Dalam hidupku, dalam hidupku slalu"
+          ]
+        }
+      ]
     }
   ]
 }
