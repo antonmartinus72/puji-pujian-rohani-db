@@ -1,7 +1,7 @@
 {
-    "version": "1.0.1",
-    "updatedAt": "2026-05-24",
-    "totalSongs": 15,
+    "version": "1.0.0",
+    "updatedAt": "2026-05-25",
+    "totalSongs": 30,
     "songs": [
         {
             "id": 1,
@@ -500,6 +500,511 @@
                         "Tepuk tangan puji Tuhan",
                         "Allah diagungkan, Allah diagungkan",
                         "Allah diagungkan tinggi"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "title": [
+                "KITALAH UMAT PEMENANG"
+            ],
+            "credit": [],
+            "tags": [
+                "sorak-sorai",
+                "syukur-dan-kesaksian"
+            ],
+            "rootNote": "",
+            "scaleType": "",
+            "lyrics": [
+                {
+                    "label": "Verse 1",
+                    "lines": [
+                        "Kitalah umat pemenang",
+                        "Kita umat pemuji",
+                        "Kita anak perjanjian",
+                        "Yesus t'lah bangkit kalahkan maut"
+                    ]
+                },
+                {
+                    "label": "Verse 2",
+                    "lines": [
+                        "Bangkit dan lahir baru",
+                        "Jalan dalam kuasa darah-Nya",
+                        "Jadi ahli waris-Nya",
+                        "Anak Allah (3x) hei…",
+                        "Anak Allah hei… hei… hei"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "title": [
+                "KE GUNUNG TINGGI KUNAIK"
+            ],
+            "credit": [],
+            "tags": [
+                "penghiburan",
+                "penyembahan"
+            ],
+            "rootNote": "",
+            "scaleType": "",
+            "lyrics": [
+                {
+                    "label": "Verse",
+                    "lines": [
+                        "Ke gunung tinggi kunaik-naik mencari damai",
+                        "Ke lembah curam kuturun-turun mencari damai",
+                        "Namun akhirnya juga tiada kudapati jua",
+                        "Kecuali hanya di dalam Yesus Tuhan"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "title": [
+                "KUNAIKKAN SYUKUR"
+            ],
+            "credit": [
+                "Niko Njotorahardjo - Album: HadiratMu Membawa Kesembuhan, Vol. 6"
+            ],
+            "tags": [
+                "penyembahan",
+                "syukur-dan-kesaksian"
+            ],
+            "rootNote": "",
+            "scaleType": "",
+            "lyrics": [
+                {
+                    "label": "Verse",
+                    "lines": [
+                        "Kunaikkan syukur pada-Mu Yesus",
+                        "Kusembah sujud kepada-Mu Tuhan",
+                        "Di hadapan tahta kemuliaan-Mu",
+                        "Kutinggikan, kuagungkan selamanya"
+                    ]
+                },
+                {
+                    "label": "Reff",
+                    "lines": [
+                        "Segala puji syukur bagi-Mu",
+                        "Kutinggikan nama-Mu selalu",
+                        "Kemuliaan hanya bagi-Mu",
+                        "Terpujilah nama-Mu"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "title": [
+                "TIADA KURAGU LAGI"
+            ],
+            "credit": [],
+            "tags": [
+                "komitmen",
+                "syukur-dan-kesaksian"
+            ],
+            "rootNote": "",
+            "scaleType": "",
+            "lyrics": [
+                {
+                    "label": "Verse 1",
+                    "lines": [
+                        "Tiada kuragu lagi tuk mengikuti-Mu Yesus",
+                        "Tiada kuragu lagi tuk melayani-Mu",
+                        "Walau banyak rintangan dan badai pun menerjang",
+                        "Tiada kuragu lagi untuk selamanya"
+                    ]
+                },
+                {
+                    "label": "Reff",
+                    "lines": [
+                        "Yesus, Yesus, Sahabatku",
+                        "Penolong dalam hidupku",
+                        "Kurindu semua orang mengenal-Mu"
+                    ]
+                },
+                {
+                    "label": "Verse 2",
+                    "lines": [
+                        "Engkau jalan kebenaran",
+                        "Dan memberi hidup yang kekal",
+                        "Bagi tiap orang yang percaya pada-Mu"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "title": [
+                "BERSORAK-SORAILAH"
+            ],
+            "credit": [
+                "Sanip Yesaya - Album: Sambutlah Yesus (Bani Asaf Singers"
+            ],
+            "tags": [
+                "sorak-sorai",
+                "panggilan-beribadah"
+            ],
+            "rootNote": "",
+            "scaleType": "",
+            "lyrics": [
+                {
+                    "label": "Verse 1",
+                    "lines": [
+                        "Bersorak-sorailah bagi Allah kekuatan kita",
+                        "Bersorak-sorailah bagi Allah Yakub",
+                        "Angkatlah lagumu, bunyikan rebana",
+                        "Kecapi yang merdu diiringi gambus"
+                    ]
+                },
+                {
+                    "label": "Verse 2",
+                    "lines": [
+                        "Tiuplah sangkakala pada bulan baru",
+                        "Pada bulan purnama, pada hari raya kita",
+                        "Masyhurkan nama-Nya, hai seluruh bangsa",
+                        "Bahwa Yesus Tuhan, Raja segala raja"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "title": [
+                "DIA TAK PERNAH GAGAL"
+            ],
+            "credit": [
+                "Jusuf Leonard"
+            ],
+            "tags": [
+                "penghiburan",
+                "syukur-dan-kesaksian"
+            ],
+            "rootNote": "",
+            "scaleType": "",
+            "lyrics": [
+                {
+                    "label": "Verse",
+                    "lines": [
+                        "Dia tak pernah gagal, kar'na Dia Allah",
+                        "Dia tak pernah lalai",
+                        "Dia jamin firman-Nya"
+                    ]
+                },
+                {
+                    "label": "Reff",
+                    "lines": [
+                        "S'bab Dia Allah, Raja segala raja",
+                        "Kekuatanku, perisaiku, dan gunung batuku",
+                        "Bersoraklah, puji sembah Dia",
+                        "Yesusku Raja mulia, Yesusku Allah perkasa",
+                        "Yesusku Allah pemenang, Yesus Raja"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "title": [
+                "BAPA, KUNAIKKAN SYUKUR"
+            ],
+            "credit": [
+                "Pdt. Dr. Ir. Niko Njotorahardjo - Album: HadiratMu Membawa Kesembuhan, Vol. 6"
+            ],
+            "tags": [
+                "penyembahan",
+                "syukur-dan-kesaksian"
+            ],
+            "rootNote": "",
+            "scaleType": "",
+            "lyrics": [
+                {
+                    "label": "Verse",
+                    "lines": [
+                        "Bapa, Bapa, kunaikkan syukur pada-Mu",
+                        "Bapa, Bapa, kusembah sujud kepada-Mu"
+                    ]
+                },
+                {
+                    "label": "Reff",
+                    "lines": [
+                        "Sungguh besar dan kudus nama-Mu Bapa",
+                        "Ku s'lalu puji nama-Mu",
+                        "Besar setia-Mu, rahmat-Mu di dalam hidupku",
+                        "Bapa, kumengasihi-Mu"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "title": [
+                "TAK USAH KU TAKUT",
+                "El Shaddai"
+            ],
+            "credit": [
+                "Letjie Sampingan"
+            ],
+            "tags": [
+                "penghiburan",
+                "firman-tuhan"
+            ],
+            "rootNote": "",
+            "scaleType": "",
+            "lyrics": [
+                {
+                    "label": "Verse 1",
+                    "lines": [
+                        "Tak usah kutakut, Allah menjagaku",
+                        "Tak usah kubimbang, Yesus peliharaku",
+                        "Tak usah kususah, Roh Kudus hiburku",
+                        "Tak usah kucemas, Dia memberkatiku"
+                    ]
+                },
+                {
+                    "label": "Reff",
+                    "lines": [
+                        "El Shadai, El Shadai, Allah Maha Kuasa",
+                        "Dia besar, Dia besar, El Shadai Mulia",
+                        "El Shadai, El Shadai, Allah Maha Kuasa",
+                        "Berkat-Nya melimpah, El Shadai"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "title": [
+                "KU BERSYUKUR PADA-MU"
+            ],
+            "credit": [],
+            "tags": [
+                "syukur-dan-kesaksian",
+                "penyembahan"
+            ],
+            "rootNote": "",
+            "scaleType": "",
+            "lyrics": [
+                {
+                    "label": "Verse 1",
+                    "lines": [
+                        "Kubersyukur pada-Mu, oh Yesusku",
+                        "Kar'na pertolongan-Mu kepadaku",
+                        "Tiada hari tanpa mengucap syukur",
+                        "Sebab kasih setia-Mu padaku"
+                    ]
+                },
+                {
+                    "label": "Verse 2",
+                    "lines": [
+                        "Biar bumi pun bergoyang dan langit pun bergoncang",
+                        "Ku kan tetap setia pegang teguh janji-Mu, Tuhanku",
+                        "Biarpun gunung beranjak dan badai pun mengamuk",
+                        "Tetapi firman-Mu tetap kekal selama-lamanya"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "title": [
+                "YA TUHAN, PUNYA-MULAH"
+            ],
+            "credit": [
+                "Diadaptasi dari 1 Tawarikh 29:11"
+            ],
+            "tags": [
+                "penyembahan",
+                "sorak-sorai"
+            ],
+            "rootNote": "",
+            "scaleType": "",
+            "lyrics": [
+                {
+                    "label": "Verse",
+                    "lines": [
+                        "Ya Tuhan, punya-Mulah kebesaran dan kejayaan",
+                        "Ya Tuhan, punya-Mulah",
+                        "Kehormatan, kemasyuran, dan keagungan",
+                        "Segala yang di langit dan yang di bumi kepunyaan-Mu"
+                    ]
+                },
+                {
+                    "label": "Reff",
+                    "lines": [
+                        "Hosana bagi Sang Raja",
+                        "Hosana di tempat yang maha tinggi",
+                        "Hosana, hosanna, Hosana bagi Dia"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "title": [
+                "JALAN HIDUP ORANG BENAR"
+            ],
+            "credit": [
+                "Robert & Lea Sutanto"
+            ],
+            "tags": [
+                "firman-tuhan",
+                "komitmen"
+            ],
+            "rootNote": "",
+            "scaleType": "",
+            "lyrics": [
+                {
+                    "label": "Verse 1",
+                    "lines": [
+                        "Jalan hidup orang benar",
+                        "Diterangi oleh cah'ya firman Tuhan",
+                        "Jalan hidup orang benar",
+                        "Semakin terang hingga rembang tengah hari"
+                    ]
+                },
+                {
+                    "label": "Verse 2",
+                    "lines": [
+                        "Apabila ia jatuh",
+                        "Tidaklah dibiarkan sampai terg'letak",
+                        "S'bab tangan Tuhan jua yang menopangnya",
+                        "Dan membangunkan dia kembali"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "title": [
+                "SELIDIKILAH AKAN DAKU"
+            ],
+            "credit": [
+                "Diadaptasi dari Mazmur 139:23"
+            ],
+            "tags": [
+                "pengakuan-dosa",
+                "penyembahan"
+            ],
+            "rootNote": "",
+            "scaleType": "",
+            "lyrics": [
+                {
+                    "label": "Verse",
+                    "lines": [
+                        "Selidikilah akan daku, ya Allah",
+                        "Ketahuilah akan hatiku",
+                        "Ujilah akan daku dan ketahuilah",
+                        "Akan segala kepikiranku"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "title": [
+                "SEPERTI RUSA RINDU SUNGAI-MU"
+            ],
+            "credit": [
+                "Nikita",
+                "Hosana Singer"
+            ],
+            "tags": [
+                "penyembahan",
+                "firman-tuhan"
+            ],
+            "rootNote": "",
+            "scaleType": "",
+            "lyrics": [
+                {
+                    "label": "Verse 1",
+                    "lines": [
+                        "S'perti rusa rindu sungai-Mu",
+                        "Jiwaku rindu Engkau",
+                        "Kaulah Tuhan, hasrat hatiku",
+                        "Kurindu menyembah-Mu"
+                    ]
+                },
+                {
+                    "label": "Verse 2",
+                    "lines": [
+                        "Engkau kekuatan dan perisaiku",
+                        "Kepada-Mu rohku berserah",
+                        "Kaulah Tuhan, hasrat hatiku",
+                        "Kurindu menyembah-Mu"
+                    ]
+                },
+                {
+                    "label": "Reff",
+                    "lines": [
+                        "Yesus.. Yesus.. Kau berarti bagiku..",
+                        "Yesus.. Yesus.. Kau segalanya bagiku"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "title": [
+                "BERHEMBUSLAH ROH KUDUS"
+            ],
+            "credit": [
+                "Robert & Lea Sutanto"
+            ],
+            "tags": [
+                "roh-kudus",
+                "pentakosta"
+            ],
+            "rootNote": "",
+            "scaleType": "",
+            "lyrics": [
+                {
+                    "label": "Verse 1",
+                    "lines": [
+                        "Berhembuslah Roh Kudus di tempat ini",
+                        "Berhembuslah Roh Kudus dengan kuasa-Mu",
+                        "Pulihkanlah g'reja-Mu di akhir zaman",
+                        "Berhembuslah, berhembuslah s'karang"
+                    ]
+                },
+                {
+                    "label": "Verse 2",
+                    "lines": [
+                        "Urapilah kami dengan minyak baru",
+                        "Penuhilah kami dengan hadirat-Mu",
+                        "Kami rindu Tuhan melihat kuasa-Mu",
+                        "Dicurahkan di tempat ini"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "title": [
+                "TUHAN ALLAH DI TENGAH KITA"
+            ],
+            "credit": [
+                "Priskila - Album: Ada Kuasa Dalam Pujian"
+            ],
+            "tags": [
+                "sorak-sorai",
+                "persekutuan"
+            ],
+            "rootNote": "",
+            "scaleType": "",
+            "lyrics": [
+                {
+                    "label": "Verse",
+                    "lines": [
+                        "Tuhan Allah di tengah kita, besar, besar",
+                        "Dia senangkan dan girangkan dengan sukacita…",
+                        "Dia mengasihi dan bersuka karena kita",
+                        "Tuhan Allah di tengah kita besar, besar,",
+                        "Besar………BESAR!"
                     ]
                 }
             ]
